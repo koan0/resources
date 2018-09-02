@@ -1,2 +1,5 @@
 # resources
-repo for guides, pages, general info
+repo for books, guides, pages, general info
+
+Books
+  <a href="https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2">The Hacker Playbook 3: Practical Guide to Penetration Testing</a>
